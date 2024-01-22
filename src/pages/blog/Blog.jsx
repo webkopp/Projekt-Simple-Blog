@@ -1,9 +1,9 @@
-import Header from "../../components/header/Header";
+import Nav from "../../components/nav/Nav";
 
 const Blog = () => {
     return ( 
         <>
-            <Header />
+            <Nav />
         </>
      );
 }
